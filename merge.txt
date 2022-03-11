@@ -1,0 +1,1 @@
+Ahora sí puedo subir la carpeta archivos al Github porque antes estaba vacia, pero al darle un elento, Github lo detecto y me permitio subir la carpeta
